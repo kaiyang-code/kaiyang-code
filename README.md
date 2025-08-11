@@ -1,10 +1,6 @@
 ## 💻 Professional Experiences
 
-![databricks-ar21~bgwhite](https://github.com/user-attachments/assets/eaed89df-35be-46f9-8527-28afcd98c253)
-
-![amazon_aws-ar21~bgwhite](https://github.com/user-attachments/assets/64e527c3-63a0-4dea-ade0-84426cdccac0)
-
-![google_cloud-ar21](https://github.com/user-attachments/assets/bd2c6c43-fec6-478e-9c94-971c0082a850)
+![databricks-ar21~bgwhite](https://github.com/user-attachments/assets/eaed89df-35be-46f9-8527-28afcd98c253) ![amazon_aws-ar21~bgwhite](https://github.com/user-attachments/assets/64e527c3-63a0-4dea-ade0-84426cdccac0) ![google_cloud-ar21](https://github.com/user-attachments/assets/bd2c6c43-fec6-478e-9c94-971c0082a850)
 
 plus a startup that you probably have never heard of..
 
