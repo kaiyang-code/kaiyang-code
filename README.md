@@ -5,8 +5,6 @@
 
 <img width="50" height="50" alt="wordmarksquare-black-600x600" src="https://github.com/user-attachments/assets/7cfb144c-b0c4-415a-b48e-0479b5e70e68" />  
 
-plus a startup that you probably have never heard of..
-
 ## Education
 <img width="50" height="50" alt="wordmarksquare-black-600x600" src="https://github.com/user-attachments/assets/95db846a-f89c-4dab-9aee-c96bc02d8aae" />
 
