@@ -1,4 +1,4 @@
-## Experiences
+## Experience
 <img width="50" height="50" alt="wordmarksquare-black-600x600" src="https://github.com/user-attachments/assets/812e0c14-d05f-4153-8ff6-d16506189e33" />  
 
 <img width="50" height="50" alt="wordmarksquare-black-600x600" src="https://github.com/user-attachments/assets/03732986-9b73-433f-a1ed-4bf3f4a75fc5" />  
@@ -10,8 +10,7 @@
 
 <img width="50" height="50" alt="wordmarksquare-black-600x600" src="https://github.com/user-attachments/assets/b18f5b14-9f02-47c1-a54d-729a258aef01" />
 
-## Courses
-
+## Course
 [MIT 6.1810: Operating System](https://pdos.csail.mit.edu/6.1810/2024/)
 
 [UCB CS162: Operating System](https://cs162.org/)
