@@ -21,4 +21,4 @@ plus a startup that you probably have never heard of..
 
 [Stanford CS143: Compilers](https://web.stanford.edu/class/cs143/)
 
-[CS 242: Programming Languages](https://stanford-cs242.github.io/f19/)
+[Stanford CS 242: Programming Languages](https://stanford-cs242.github.io/f19/)
